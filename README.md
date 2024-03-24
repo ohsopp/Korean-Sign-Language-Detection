@@ -1,6 +1,8 @@
 # Korean-Sign-Language-KSL-Detection-Modeling-ML-Tensorflow-
 Improving Deep Learning-based Korean Sign Language Recognition Performance via Landmark Optimization
 
+Youtube Link: https://youtu.be/W0w3K3NxXkQ?si=CU8WiGKR3jW8qP1j
+
 - Learning Env: Jupyter Notebook
 
 - Package Version: <br/>
