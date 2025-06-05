@@ -1,4 +1,4 @@
-# Korean-Sign-Language-KSL-Detection-Modeling-ML-Tensorflow-
+# Korean-Sign-Language-Detection
 딥러닝 기반의 한국 수어 인식 모델을 개발한 졸업 프로젝트입니다. 부족한 수어 데이터셋을 직접 촬영 및 보강하여 학습 정확도를 높였으며, 수어의 연속성 및 시공간적 특징을 반영하여 모델 성능을 향상시켰습니다.
 
 <br/><br/>
