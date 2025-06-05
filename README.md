@@ -4,10 +4,10 @@ Improving Deep Learning-based Korean Sign Language Recognition Performance via L
 
 [프로젝트 영상](https://youtu.be/W0w3K3NxXkQ?si=CU8WiGKR3jW8qP1j)
 
+<br/><br/>
 
-- Learning Env: Jupyter Notebook
-
-- Package Version: <br/>
+**Learning Env: Jupyter Notebook**
+## Package Version: <br/>
 absl-py                       1.4.0 <br/>
 h5py                          3.7.0 <br/>
 imbalanced-learn              0.10.1 <br/>
