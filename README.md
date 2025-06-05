@@ -73,9 +73,9 @@ scikit-learn                  1.2.1 <br/>
 
 * Optimizer: Adam
 * Loss Function: Categorical Cross Entropy
-* Epochs: 50\~100
+* Epochs: 100\~200
 * Batch Size: 32
-* Accuracy: Top-1 Accuracy 기준 약 93%
+* Accuracy: Top-1 Accuracy 기준 약 90.45%
 
 <br/><br/>
 
