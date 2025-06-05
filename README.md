@@ -3,8 +3,14 @@
 
 <br/><br/>
 
-# 📽 프로젝트 영상 <br/>
-[▶️ 유튜브 링크 클릭](https://youtu.be/W0w3K3NxXkQ?si=CU8WiGKR3jW8qP1j) <br/>
+# 📽 프로젝트 영상
+
+<br/>
+
+[▶️ 유튜브 링크 클릭](https://youtu.be/W0w3K3NxXkQ?si=CU8WiGKR3jW8qP1j)
+
+<br/>
+
 ![유튜브 이미지](KSL.png)
 
 
